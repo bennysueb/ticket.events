@@ -1,0 +1,13 @@
+APP_NAME='G-Event'
+APP_ENV=local
+APP_KEY=base64:w6cM05eWGTYHwfiERCghnOpkEEvLZ2Gt0S3uFKhs8TY=
+APP_DEBUG=true
+# APP_URL=http://eventmie-pro-fullyloaded.test
+APP_URL=http://localhost:9000
+
+DB_CONNECTION=mysql
+DB_HOST=db
+DB_PORT=3306
+DB_DATABASE="g-pro-db"
+DB_USERNAME="laravel"
+DB_PASSWORD="mysql"
